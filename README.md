@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **BigUserName1873/BigUserName1873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Michael Matthews. I am currently a student at Erie High School. I am currently learning about Amazon Web Services and preparing to take the AWS certification exam.
